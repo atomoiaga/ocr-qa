@@ -19,7 +19,7 @@ OCR-QA is a lightweight project designed to demonstrate the simplicity of buildi
 1. **Installation**: Clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/OCR-QA.git
+git clone git@github.com:atomoiaga/ocr-qa.git
 cd OCR-QA
 pip install -r requirements.txt
 ```
