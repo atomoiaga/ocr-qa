@@ -12,7 +12,7 @@ OCR-QA is a lightweight project designed to demonstrate the simplicity of buildi
 
 - **OCR Integration**: Utilizes tesseract for accurate text extraction from images.
 
-- **Contemporary Tools**: Leverages state-of-the-art tools and libraries available in the AI landscape as of 2023.
+- **Contemporary Tools**: Leverages tools and libraries available in the AI landscape as of 2023.
 
 ## Getting Started
 
