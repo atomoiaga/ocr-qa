@@ -8,6 +8,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+print(ocr.__file__)
+
 # Replace 'YOUR_BEARER_TOKEN' with your actual Bearer token
 bearer_token = os.getenv('HUGGING_FACE_TOKEN')
 
