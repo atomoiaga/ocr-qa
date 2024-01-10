@@ -5,6 +5,7 @@
 OCR-QA is a lightweight project designed to demonstrate the simplicity of building machine-learning projects using cutting-edge tools available in 2023. This project focuses on Optical Character Recognition (OCR) and Question Answering model (QA) to showcase the seamless integration of contemporary AI resources.
 
 ## Demo
+URL: [ocr-demo.streamlit.app](https://ocr-demo.streamlit.app)
 
 ![Video GIF with the result](./images/demo.gif)
 
